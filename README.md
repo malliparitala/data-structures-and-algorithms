@@ -22,6 +22,7 @@ Learning Structure:
 Course material sources:
 
     For Data Structures and Algorithms concepts, start with 
+      https://www.tutorialspoint.com/data_structures_algorithms/index.htm
       https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
     For programming practice, Start with 
       https://projecteuler.net/archives
@@ -35,6 +36,8 @@ More References:
       https://www.codechef.com/problems/school
       
     Data Structures and Algorithms Concepts:
+      https://www.khanacademy.org/computing/computer-science/algorithms
+      https://www.programiz.com/dsa/algorithm
       https://runestone.academy/runestone/books/published/pythonds/index.html
 
     Python concepts and syntax:
