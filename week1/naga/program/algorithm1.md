@@ -17,7 +17,7 @@ Algorithm:
 	Step 3: print 'Sum of all the multiples of a or b below n is sum'
 
 Test cases:
-	1. what if user enters negative numbers for n or a or b ?
-	2. what if user enters 0 for n or a or b ?
-	3. What if user enters strings or non-numeric characters for n or a and b
-	4. what if user doesn't provide natural numbers as input ? 
+	what if user enters negative numbers for n or a or b ?
+	what if user enters 0 for n or a or b ?
+	What if user enters strings or non-numeric characters for n or a and b
+	what if user doesn't provide natural numbers as input ? 
