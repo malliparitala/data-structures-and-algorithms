@@ -1,2 +1,2 @@
 # data-structures-and-algorithms
-Learn Data structures ans algorithms
+Learn Data structures and algorithms
