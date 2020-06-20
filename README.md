@@ -10,7 +10,9 @@ Learning Structure:
     Each week,
   
     1. Choose a theoretical concept, read and learn about it.
-    2. Choose programming question(s), write algorithm(s) and implement. Each programming question should have respective algorithm(s) and implementation(s).
+    2. Choose programming question(s), write algorithm(s) and implement. 
+        Each programming question should have respective algorithm(s) and implementation(s).
+            Note: Algorithm need to be developed with respective test scenarios.
 
    For each week you will find
 
